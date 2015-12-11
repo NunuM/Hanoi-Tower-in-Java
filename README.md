@@ -1,4 +1,4 @@
-# Hanoi-Tower-in-Java
+# Hanoi Tower Game in Java
 Implementation of Hanoi Tower game, with a matrix of List&lt;Stack&lt;Disc>>
 
 ## The idea
